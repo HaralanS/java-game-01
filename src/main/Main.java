@@ -127,7 +127,7 @@ public class Main {
 
                 } else if (respawnOption == 3) {
                     System.out.println();
-                    System.out.println("Que cheiro eh esse? Alguem soltou um pum? Nao, eh cheiro de enxofre por causa do fogo do dragao muahahahaha");
+                    System.out.println("Que cheiro eh esse? Eh cheiro de enxofre por causa do fogo do dragao muahahahaha");
                     fight(hero, 3);
 
                 } else {
